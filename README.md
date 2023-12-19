@@ -1,4 +1,5 @@
 # phase-3-final-project
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 Bayesian Statistics
 This checkpoint is designed to test your understanding of applying Bayes' theorem.
 
